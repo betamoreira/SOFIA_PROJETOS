@@ -1,0 +1,89 @@
+Olá, Soufs, segue o passo a passo para que você consiga resolver os projetos
+
+Os projetos agora são apenas para descomentar os blocos de código correto para que o jogo funcione
+
+Caso você queira fazer como está no seu painel, fique a vontade, mas seguindo esse documento também irá funcionar
+
+Bom trabalho! Qualquer coisa estou disponível para te auxiliar ;)
+
+
+PROJETO 14: COLETANDO TESOUROS
+    - PASSO 1: Em SKETCH.JS descomente o bloco de código correto abaixo do bloco if-else para aumentar treasureCollection em 150, quando jewelryG tocar no sprite do menino
+
+    - PASSO 2: Em SKETCH.JS descomente o bloco de código correto para mudar a animação do sprite do menino para endImg, quando swordGroup tocar no menino
+
+    - PASSO 3: Em SKETCH.JS descomente o bloco de código correto para destruir todos os grupos quando swordGroup tocar no sprite do menino
+
+
+PROJETO 15: NINJA DA FRUTA
+    - PASSO 1: Em SKETCH.JS descomente o bloco if correto para tocar knifeSwordshSound quando fruitGroup tocar no sprite de faca
+
+    - PASSO 2: Em SKETCH.JS descomente o bloco de código correto para aumentar o score em 2 toda vez que a faca tocar em fruitGroup
+
+    - PASSO 3: Em SKETCH.JS descomente o bloco de código correto para aumentar a velocidade e Fruits toda vez que a pontuação chegar em 4
+
+
+PROJETO 16: CORRIDA DE BICICLETA
+    - PASSO 1: Em SKETCH.JS descomente o bloco if correto para definir o raio de colisão do ciclista principal
+
+    - PASSO 2: Em SKETCH.JS descomente o bloco de código correto para criar uma função reset(), isso vai mudar o gameState para PLAY, destruir os grupos e mudar a animação de mainCyclist
+
+    - PASSO 3: Em SKETCH.JS descomente o bloco if correto abaixo de gameState END para chamar a função reset() quando a tecla de seta para cima for pressionada
+
+
+PROJETO 17: HOSPEDE O JOGO ONLINE
+    - Escolha um dos jogos, suba no github e depois gere um pages (envie o link do pages no projeto) - PODE SEGUIR O PASSO A PASSO QUE ESTÁ NA PÁGINA DO PROJETO
+
+
+PROJETO 18: JOGO COMPATÍVEL COM DISPOSITIVOS MÓVEIS
+    - Adapte o jogo do projeto 16 para funcionar em um dispositivo móvel (smartphone ou tablet), suba no github e depois gere um pages (envie o link do pages no projeto) - PODE SEGUIR O PASSO A PASSO QUE ESTÁ NA PÁGINA DO PROJETO
+
+
+PROJETO 19: SEU PRÓPRIO JOGO DE CORRIDA INFINITA
+    - Faça seu próprio de corrida - PODE SEGUIR O PASSO A PASSO QUE ESTÁ NA PÁGINA DO PROJETO
+
+
+PROJETO 26: JUNIOR MASTERCHEF 
+    - Nesse projeto você deve escrever uma receita -  PODE SEGUIR O PASSO A PASSO QUE ESTÁ NA PÁGINA DO PROJETO para criar os arquivos
+
+
+PROJETO 33: SEU PRÓPRIO JOGO DE MOTOR DE FÍSICA
+    - Faça seu próprio utilizando a classe Matter.js, criando os corpos, mundos e mecanismos - PODE SEGUIR O PASSO A PASSO QUE ESTÁ NA PÁGINA DO PROJETO
+
+
+PROJETO 35: PASSEIO DE BALÃO DE AR
+    - PASSO 1: Em SKETCH.JS descomente o bloco de código correto a função readHeight(), que vai ler os dados do banco de dados e dar a posição x e y do balão
+
+
+PROJETO 37: MEU QUESTIONÁRIO
+    - PASSO 1: Em QUESTION.JS descomente o bloco de código correto para fornecer HTML à questão que é criada no constructor
+
+    - PASSO 2: Em QUIS.JS descomente o bloco de código correto de if-else dentro do loop for na função play() para exibir a resposta correta em verde e a outra em vermelho
+
+PROJETO 38:
+    - Faça seu próprio DO CORREDOR INFINITO (parte 1) - PODE SEGUIR O PASSO A PASSO QUE ESTÁ NA PÁGINA DO PROJETO
+
+PROJETO 39:
+    - Faça seu próprio DO CORREDOR INFINITO (parte 2) - PODE SEGUIR O PASSO A PASSO QUE ESTÁ NA PÁGINA DO PROJETO
+
+
+PROJETO 43:
+    - PASSO 1: Em SECURITY.JS que está na pasta JS, descomente o bloco de código correto em constructor para criar o terceiro botao chamado "Verificar"
+
+    - PASSO 2: Em SECURITY.JS que está na pasta JS, descomente o bloco de código correto da função mousePressed() de button3 para esconder os elementos button3 e access3
+
+
+PROJETO 44:
+    - Faça seu próprio jogo (parte 1) - pode enviar o seu jogo "COBRINS"
+
+PROJETO 45:
+    - Faça seu próprio jogo (parte 2) - pode enviar o seu jogo "COBRINS"
+
+PROJETO 46:
+    - Faça seu próprio jogo (parte 3) - pode enviar o seu jogo "COBRINS"
+
+PROJETO 47:
+    - Faça seu próprio jogo (parte 4) - pode enviar o seu jogo "COBRINS"
+
+PROJETO 48:
+    - Faça seu próprio jogo (parte 5) - pode enviar o seu jogo "COBRINS"
